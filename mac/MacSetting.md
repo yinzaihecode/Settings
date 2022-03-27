@@ -33,7 +33,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 >> `brew.sh' 웹사이트에서 검색
 
 
-## **3. 터미널 셋팅 `brew install --cask iterms`**
+## **3. 터미널 셋팅 `brew install --cask iterm2`**
 
 1. Preference -> Theme -> Minimal
 2. Preference -> profile -> Sessions -> Status bar enabled
