@@ -59,9 +59,9 @@ installation -> zsh -> 값을 복사한다
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-```
-Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in ~/.zshrc.
-```
+2. `~/.zshrc` 파일에 아래 코드를 추가
+ `ZSH_THEME="powerlevel10k/powerlevel10k"`
+
 
 ### 4-1. vsc로 터미널 환경변수 파일 열기
 
