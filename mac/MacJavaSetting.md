@@ -27,7 +27,7 @@ For compilers to find openjdk@11 you may need to set:
 ----
 # path settings
 
-`~./zshrc` 에 아래 경로 추가.
+`~/.zshrc` 에 아래 경로 추가.
 
 
 > 경로 주의!
@@ -41,6 +41,8 @@ export PATH=${PATH}:$JAVA_HOME/bin
 `export JAVA_HOME=/Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home`
 
 `export PATH=${PATH}:$JAVA_HOME/bin`
+
+<!-- path가 아이텀2랑 꼬이지 않게.. 주의할것 (oh-my-zsh) -->
 
 # inteliJ에서.
 > set up SDK (detected) => 해당경로 선택.
